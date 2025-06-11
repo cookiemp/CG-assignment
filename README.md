@@ -112,8 +112,3 @@ The script is structured into several key sections:
 Enjoy the game!
 
 ```
-
----
-
-You can now save this as `README.md` in your project folder. Let me know if you'd like to add GitHub badges, licensing info, or setup instructions for packaging it into an `.exe`.
-```
